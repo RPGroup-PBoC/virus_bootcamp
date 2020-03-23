@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About
-description: Information about the project, website, and links to the paper and SI
-img: about.png # Add image post (optional)
-caption: "A Serious Man (2010)"
+description: 
+img: corona_virus_goodsell.jpg 
+caption: "Courtesy of David S. Goodsell"
 permalink: index.html
 sidebar: true
 ---
-
----
-
 
 # {{site.data.about.title}}
 {{site.data.about.authors}}
@@ -23,3 +20,11 @@ sidebar: true
 {% endif %}
 {% endif %}
 {% endfor %}
+
+
+| **Date** | **Topic** | 
+|:--: | :--: |
+| Mon. 3/23/2020 | What are viruses? A brief history and biology. |
+| Tue. 3/24/2020 | Diversity in viral genetic material and life cycles. |
+| Wed. 3/25/2020 | Physical mechanisms, assembly pathways, and energetic costs. |
+| Thu. 3/26/2020 | Global viral dynamics, SIR, and other models. |

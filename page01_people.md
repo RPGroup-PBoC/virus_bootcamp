@@ -3,7 +3,7 @@ layout: page
 title: People
 description: About the authors
 img: people.png 
-caption: "Looking directly at the eclipse."
+caption: "T4 Bacteriophage"
 permalink: people
 sidebar: true
 ---
