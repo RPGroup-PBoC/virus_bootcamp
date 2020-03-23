@@ -2,7 +2,7 @@ title: Physical Biology of Viruses
 description: > 
   A four-day bootcamp on viruses and the SARS-CoV-2 outbreak 
 
-baseurl:  "virus_bootcamp/" 
+baseurl:  "virus_bootcamp" 
 url: "http://www.rpgroup.caltech.edu/"
 
 # You can include social icons
