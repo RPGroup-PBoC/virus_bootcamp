@@ -1,10 +1,10 @@
 title: Physical Biology of Viruses
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   A four-day bootcamp on viruses and the SARS-CoV-2 outbreak 
 
 permalink: ':title/'
-baseurl:  "virus_bootcamp/" # the subpath of your site, e.g. /blog
-url: "http://www.rpgroup.caltech.edu"
+baseurl:  "virus_bootcamp/" 
+url: "http://www.rpgroup.caltech.edu/"
 
 # You can include social icons
 # If you are using google analytics to track website traffic, you can insert the
@@ -16,7 +16,6 @@ url: "http://www.rpgroup.caltech.edu"
 # 'assets/img/'. If you want a log
 site-twitter: #if your site has a twitter account, enter it here
 social-github: RPGroup-PBoC # add your Github handle here.
-o to show up, put the filename of the logo here
 author-img: logo.png # Comment this line out if you don't want a logo
 
 
