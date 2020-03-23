@@ -8,3 +8,20 @@ Day 1:
    year: 1992
    link: Los_Alamos_Primer.pdf
    description: This famous set of lectures was delivered at Los Alamos during the Manhattan Project by Prof. Robert Serber. The goal of these lectures was to get the very bright but inexperienced young researchers up to speed on the key elements of nuclear physics they would need to build the atomic bomb.
+
+ - pub: 
+   title: Virus reconstitution and the proof of the existence of genomic RNA.
+   authors: H. Fraenkel-Conrat and B. Singer.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 1999
+   link: FraenkelConratReconstitution.pdf
+   description: This retrospective by Fraenkel-Conrat and Singer reflects on the
+beautiful and, quite frankly, amazing experiments they did to reconstitute
+the tobacco mosaic virus from purified components.  They found that
+when they mixed viral RNA and the TMV proteins, they got back
+rod-shaped visions that were indistinguishable from the wild-type virus
+and that were similarly infectious.
+
+
