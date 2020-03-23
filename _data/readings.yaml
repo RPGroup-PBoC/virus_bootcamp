@@ -1,10 +1,10 @@
 Day 1:
  - pub: 
-   title: This is a placeholder paper title.
-   authors: George Washington, Rosalind Franklin, and Barbara McClintock.
-   journal: Fancy journal
-   volume: 5
-   issue: (6)
-   year: 2220
-   link: ackers1982.pdf
-   description: This paper does not exist, though it would be pretty interesting. 
+   title: The Los Alamos primer: The first lectures on how to build an atomic bomb.
+   authors: Robert Serber.
+   journal: 
+   volume: 
+   issue: 
+   year: 1992
+   link: Los_Alamos_Primer.pdf
+   description: This famous set of lectures was delivered at Los Alamos during the Manhattan Project by Prof. Robert Serber. The goal of these lectures was to get the very bright but inexperienced young researchers up to speed on the key elements of nuclear physics they would need to build the atomic bomb.
