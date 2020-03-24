@@ -18,3 +18,23 @@ Day 1:
    year: 1999
    link: FraenkelConratReconstitution.pdf
    description: This retrospective by Fraenkel-Conrat and Singer reflects on the beautiful and, quite frankly, amazing experiments they did to reconstitute the tobacco mosaic virus from purified components.  They found that when they mixed viral RNA and the TMV proteins, they got back rod-shaped visions that were indistinguishable from the wild-type virus and that were similarly infectious.
+
+ - pub: 
+   title: Energetic cost of building a virus.
+   authors: G. Mahmoudabadi, Ron Milo, Rob Phillips.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2017
+   link: energetic.pdf
+   description: Energetic costs for viral assembly in T4 and influenza, mentioned in lecture 1.
+
+ - pub: 
+   title:  A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing.
+   authors: Gordon et. al.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2020
+   link: protein.pdf
+   description: Victoria shared in lecture 1.
