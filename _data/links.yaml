@@ -1,4 +1,9 @@
 - link:
-  title: This is a test link. 
-  address: "http://google.com"
-  description: The link points to google
+  title: Prof. Manu Prakash's Lab Website. 
+  address: "http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/"
+  description: The Prakash lab is responding to COVID-19 by developing new PPE that can be deployed quickly to healthcare workers. Check out their website and open lab notebooks. Mentioned in lecture 1.
+
+- link:
+  title: VIPERdb. 
+  address: "http://viperdb.scripps.edu/"
+  description: VIPERdb houses structural analysis for icosahedral virus capsid structures. They have renderings online and computational analyses. Mentioned in lecture 1.
