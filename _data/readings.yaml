@@ -30,6 +30,16 @@ Day 1:
    description: Energetic costs for viral assembly in T4 and influenza, mentioned in lecture 1.
 
  - pub: 
+   title: Measurements of the self-assembly kinetics of individual viral capsids around their RNA genome.
+   authors: Rees F. Garmanna, Aaron M. Goldfaina, and Vinothan N. Manoharan.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2019
+   link: garmann.pdf
+   description: Kinetics of MS2 bacteriophage around MS2 RNA, mentioned in lecture 1.
+
+ - pub: 
    title:  A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing.
    authors: Gordon et. al.
 #   journal: 
