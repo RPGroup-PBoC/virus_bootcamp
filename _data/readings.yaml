@@ -80,3 +80,25 @@ Day 2:
    year: 2005
    link: caspar.pdf
    description: Mentioned in lecture 2.
+
+Day 3:
+
+ - pub: 
+   title: Why Enveloped Viruses Need Cores—The Contribution of a Nucleocapsid Core to Viral Budding.
+   authors: Lazaro, Mukhopadhyay, and Hagan.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2017
+   link: Lazaro2018 Biophys J. alphavirus with SI.pdf
+   description: Hagan has thought very deeply about the free energy cost of viral assembly. This paper gives an example of the kinds of approaches he has been taking.
+
+ - pub: 
+   title:  Physics of RNA and viral assembly.
+   authors: R.F. Bruinsma.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2006
+   link: Bruinsma2006_Article_PhysicsOfRNAAndViralAssembly.pdf
+   description: This paper gives a fascinating view of the physics involved in the assembly of rna viruses.
