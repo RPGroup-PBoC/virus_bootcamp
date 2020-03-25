@@ -17,3 +17,8 @@
   title: COVID-19 Scenarios. 
   address: "https://neherlab.org/covid19/"
   description: Modeling of COVID-19 outcomes from Neher lab. Builds mathematical model based on user-specified parameters.
+  
+- link:
+  title: Virus Packing Efficiency. 
+  address: "http://paul.graysonfamily.org/research/virus-packing/"
+  description: This utility makes it possible to compute the ratio of nucleic acid volume to the available space within the viral capsid.
