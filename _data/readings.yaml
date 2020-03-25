@@ -59,7 +59,7 @@ Day 2:
 #   issue: 
    year: 2005
    link: benjamin.pdf
-   description: 3D structure of HIV, one of Rob's all time favorite papers.
+   description: 3D structure of HIV, one of Rob's all time favorite papers. Mentioned in lecture 2.
 
  - pub: 
    title:  Mechanism of Force Generation of a Viral DNA Packaging Motor.
@@ -68,6 +68,15 @@ Day 2:
 #   volume: 
 #   issue: 
    year: 2005
-   link: benjamin.pdf
-   description: phi 29 DNA packaging motor and measurement of forces.
+   link: chemla.pdf
+   description: phi 29 DNA packaging motor and measurement of forces. Mentioned in lecture 2.
 
+ - pub: 
+   title:  Physical Principles in the Construction of Regular Viruses.
+   authors: Caspar and Klug.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2005
+   link: caspar.pdf
+   description: Mentioned in lecture 2.
