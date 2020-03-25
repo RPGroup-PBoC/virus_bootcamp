@@ -22,3 +22,8 @@
   title: Virus Packing Efficiency. 
   address: "http://paul.graysonfamily.org/research/virus-packing/"
   description: This utility makes it possible to compute the ratio of nucleic acid volume to the available space within the viral capsid.
+
+- link:
+  title: Virus Packing Efficiency. 
+  address: "https://www.nytimes.com/interactive/2020/03/11/science/how-coronavirus-hijacks-your-cells.html"
+  description: Jonathan Corum and Carl Zimmer's infographic on how coronavirus infects cells.

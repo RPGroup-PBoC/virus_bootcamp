@@ -48,3 +48,26 @@ Day 1:
    year: 2020
    link: protein.pdf
    description: Victoria shared in lecture 1.
+
+Day 2:
+
+ - pub: 
+   title:  Three-dimensional Structure of HIV-1 Virus-like Particles by Electron Cryotomography.
+   authors: Jordan Benjamin et. al.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2005
+   link: benjamin.pdf
+   description: 3D structure of HIV, one of Rob's all time favorite papers.
+
+ - pub: 
+   title:  Mechanism of Force Generation of a Viral DNA Packaging Motor.
+   authors: Yann Chemla et. al.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2005
+   link: benjamin.pdf
+   description: phi 29 DNA packaging motor and measurement of forces.
+
