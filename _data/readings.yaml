@@ -112,3 +112,13 @@ Day 3:
    year: 2006
    link: Bruinsma2006_Article_PhysicsOfRNAAndViralAssembly.pdf
    description: This paper gives a fascinating view of the physics involved in the assembly of rna viruses.
+
+ - pub: 
+   title:  Energies and pressures in viruses: contribution of nonspecific electro-static interactions.
+   authors: Siber, Bozic, and Podgornik.
+#   journal: 
+#   volume: 
+#   issue: 
+   year: 2011
+   link: Podgornik_virus_pressure.pdf
+   description: Mentioned in lecture 3.
