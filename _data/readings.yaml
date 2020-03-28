@@ -165,14 +165,4 @@ Day 4:
    link: pnas-hall-dsf-full.pdf
    description: Dispersal of evolutionary variants.
 
-- pub: 
-   title: "Basic SEIR_QD Interactive."
-   authors: Liana Merk.
-#   journal: 
-#   volume: 
-#   issue: 
-   year: 2020
-   link: 200327_LM_SEIRQD_interactive.ipynb
-   description: Discussed in lecture 4.
-
 
