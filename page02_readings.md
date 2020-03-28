@@ -12,7 +12,7 @@ sidebar: true
 {% for day in site.data.readings %}
 ## {{day[0]}}
 {% for pub in day[1] %}
-* [**{{pub.title}}**]({{site.baseurl}}/assets/pdfs/{{pub.link}}) by {{pub.authors}}({{pub.year}}) *{{pub.journal}}* {{pub.volume}}**{{pub.issue}}**. {{pub.year}}. {%if pub.description %}{{pub.description}}{%endif%}
+* [**{{pub.title}}**]({{site.baseurl}}/assets/pdfs/{{pub.link}}) by {{pub.authors}}({{pub.year}}) {%if pub.description %}{{pub.description}}{%endif%}
 {%endfor%}
 {%endfor%}
 
